@@ -1,0 +1,30 @@
+.imageprop{
+    border-radius: 2px solid black;
+    box-shadow: black 0 0 10px;
+    
+}
+#res{
+    font-style:solid;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration-style: double;
+}
+#size{
+    text-align: left;
+    font-size: 20px;
+    font-style: solid;
+}
+#row{
+    font-size: 25px;
+    padding: 20px;
+}
+
+.colo{
+    background-color: cadetblue;
+    text-align: center;
+
+}
+.colors{
+    background-color: chartreuse;
+    text-align: center;
+}
