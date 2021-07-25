@@ -20,11 +20,11 @@
 }
 
 .colo{
-    background-color: cadetblue;
+    background-color: hsla(158, 100%, 75%, 0.36);
     text-align: center;
 
 }
 .colors{
-    background-color: #e3b1ba;
+    background-color:hsla(326, 100%, 67%, 0.36);
     text-align: center;
 }
