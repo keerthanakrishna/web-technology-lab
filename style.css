@@ -19,12 +19,17 @@
     padding: 20px;
 }
 
+body{
+    color: white;
+}
+
+
 .colo{
-    background-color: hsla(158, 100%, 75%, 0.36);
+    background-color: #f54775;
     text-align: center;
 
 }
 .colors{
-    background-color:hsla(326, 100%, 67%, 0.36);
+    background-color:hsla(0, 0%, 0%, 0.836);
     text-align: center;
 }
